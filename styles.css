@@ -1,0 +1,142 @@
+
+body{
+  margin: 0;
+  text-align: center;
+
+
+}
+p{
+  color: #527646;
+  font-family: 'Merriweather', serif;
+
+}
+
+
+h1{
+  color: #e3213c;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+}
+
+h2{
+    color: #f7b135;
+
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+
+}
+h3{
+  color: #e3213c;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2;
+}
+a{
+  color: #FCF8E8;
+
+}
+.btn {
+  background: #ECB390;
+  background-image: -webkit-linear-gradient(top, #DF7861, #e3213c);
+  background-image: -moz-linear-gradient(top, #DF7861, #e3213c);
+  background-image: -ms-linear-gradient(top, #DF7861, #e3213c);
+  background-image: -o-linear-gradient(top, #DF7861, #e3213c);
+  background-image: linear-gradient(to bottom, #DF7861, #e3213c);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-top: 50px;
+
+}
+
+.btn:hover {
+  background: #94B49F;
+  text-decoration: none;
+}
+
+.dotted-line{
+border-top: dotted 6px;
+border-color: #ded9c5;
+border-bottom-width: 0px;
+border-left-width: 0px;
+width: 4%;
+
+}
+
+.top-container{
+  background-color: #ebfce8;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+  background-color: #FCF8E8;
+
+
+
+}
+.bottom-container{
+  background-color: #f7b135;
+  padding: 15px;
+}
+
+.pro{
+  text-decoration: underline;
+}
+.illustration-pic{
+  width: 25%; /* 25 percent of parent(skill row)*/
+  float: left;
+  margin-right: 30px;
+}
+.code-pic{
+  width: 25%; /* 25 percent of parent(skill row)*/
+  float: right;
+  margin-left: 30px;
+}
+.contact-me{
+  padding: 100px 0;
+}
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.profile{
+  padding: 100px 0;
+}
+.skills{
+  padding: 100px 0 40px 0;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.top-cloud
+{
+  position: absolute;
+  right: 200px;
+  top: 20px;
+  width: 200px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 150px;
+  bottom: 300px;
+  width: 200px;
+}
+.fatima{
+  width: 200px;
+}
+.copyright{
+  color: white;
+  font-size: .75rem;
+}
+.flowers{
+  width: 400px;
+}
